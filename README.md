@@ -1,2 +1,1 @@
-# odin-recipes
-HTML project
+Simple Html project involving recipes
